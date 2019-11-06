@@ -83,7 +83,6 @@ h1, h2, h3, h4, h5 {
 	top:25px;
 	background-color:white;
 	padding:20px 10px;
-	background-image: url("../img/logo.png");
 	background-repeat: no-repeat;
 }
 
@@ -91,6 +90,7 @@ h1, h2, h3, h4, h5 {
 	display:inline-block;
 	width:33%;
 }
+
 
 nav{
 	top:0px;
@@ -101,7 +101,7 @@ nav{
 
 a{
 	line-height:30px;
-	width:100px;
+	width:95px;
 	display:inline-block;
 	color:gray;
 	text-decoration:none;
@@ -167,8 +167,3 @@ footer{
 p{
 	font-family: 'Play', sans-serif;
 }
-
-.middle-img{
-	padding:100px 100px;
-	background: url("../img/mid-page-accent.jpg");
-} 
